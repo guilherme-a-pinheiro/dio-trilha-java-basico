@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositórrio da trilha de java básico da DIO
+Repositório da trilha de java básico da DIO
